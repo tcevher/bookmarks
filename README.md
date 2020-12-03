@@ -13,6 +13,7 @@
 
 ### coding
 * [the architecture of open src apps](https://www.aosabook.org/en/index.html)
+* [cheatsheets with a curl command](https://github.com/chubin/cheat.sh)
 * [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [regex cheatsheet](https://github.com/niklongstone/regular-expression-cheat-sheet)
 * [git cheatsheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
