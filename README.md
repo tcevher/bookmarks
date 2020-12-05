@@ -1,7 +1,6 @@
 ### software tools
 * [privacy tools](https://www.privacytools.io)
 * [prism-break, privacy tools](https://prism-break.org/en/)
-* [importance of foss](https://www.gnu.org/philosophy/free-software-even-more-important.html)
 * [qubes os tutorial](https://www.youtube.com/watch?v=Aghj8MyDF4I)
 
 
