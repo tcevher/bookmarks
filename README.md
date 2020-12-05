@@ -1,10 +1,11 @@
-### privacy tools
-* [qubes os](https://www.qubes-os.org/)
-* [qubes os demo](https://www.youtube.com/watch?v=YPAvoFsvSbg)
-* [qubes uefi boot issues](https://deniszanin.com/bad-grub-fixing-qubes-boot-missing-on-uefi/)
+### software tools
 * [privacy tools](https://www.privacytools.io)
 * [prism-break, privacy tools](https://prism-break.org/en/)
 * [importance of foss](https://www.gnu.org/philosophy/free-software-even-more-important.html)
+* [pure os](https://pureos.net/)
+* [qubes os](https://www.qubes-os.org/)
+* [qubes os demo](https://www.youtube.com/watch?v=YPAvoFsvSbg)
+
 
 
 ### science
