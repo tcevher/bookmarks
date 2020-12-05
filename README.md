@@ -4,7 +4,7 @@
 * [importance of foss](https://www.gnu.org/philosophy/free-software-even-more-important.html)
 * [pure os](https://pureos.net/)
 * [qubes os](https://www.qubes-os.org/)
-* [qubes os demo](https://www.youtube.com/watch?v=YPAvoFsvSbg)
+* [qubes os tutorial](https://www.youtube.com/watch?v=Aghj8MyDF4I)
 
 
 
