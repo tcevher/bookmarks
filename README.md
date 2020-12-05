@@ -2,10 +2,7 @@
 * [privacy tools](https://www.privacytools.io)
 * [prism-break, privacy tools](https://prism-break.org/en/)
 * [importance of foss](https://www.gnu.org/philosophy/free-software-even-more-important.html)
-* [pure os](https://pureos.net/)
-* [qubes os](https://www.qubes-os.org/)
 * [qubes os tutorial](https://www.youtube.com/watch?v=Aghj8MyDF4I)
-* [tails os](https://tails.boum.org/about/index.en.html)
 
 
 
