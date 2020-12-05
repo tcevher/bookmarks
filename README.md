@@ -5,6 +5,7 @@
 * [pure os](https://pureos.net/)
 * [qubes os](https://www.qubes-os.org/)
 * [qubes os tutorial](https://www.youtube.com/watch?v=Aghj8MyDF4I)
+* [tails os](https://tails.boum.org/about/index.en.html)
 
 
 
