@@ -3,6 +3,7 @@
 * [qubes os demo](https://www.youtube.com/watch?v=YPAvoFsvSbg)
 * [privacy tools](https://www.privacytools.io)
 * [prism-break, privacy tools](https://prism-break.org/en/)
+* [importance of foss](https://www.gnu.org/philosophy/free-software-even-more-important.html)
 
 
 ### science
