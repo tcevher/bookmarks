@@ -20,7 +20,7 @@
 ##### books:
 * [the bitcoin standard, saifedean](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861/ref=sr_1_1?dchild=1&keywords=saifedean&qid=1606007632&sr=8-1)
 * [sovereign individual, davidson](https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720/ref=sr_1_2?crid=2TVFFKXB4U7IC&dchild=1&keywords=sovereign+individual&qid=1606007663&sprefix=sovereign+indiv%2Caps%2C370&sr=8-2)
-* [the structure of scientific revolutions](https://www.amazon.com/Structure-Scientific-Revolutions-Thomas-Kuhn/dp/0226458083)
+* [the structure of scientific revolutions, thomas kuhn](https://www.amazon.com/Structure-Scientific-Revolutions-Thomas-Kuhn/dp/0226458083)
 * [grokking bitcoin, rosenbaum - open source book](https://www.manning.com/books/grokking-bitcoin#toc)
 * [mastering lightning network, open source book](https://github.com/lnbook/lnbook)
 
