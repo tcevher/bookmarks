@@ -9,7 +9,7 @@
 * [on energy consumption](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption?amp=1)
 * on adoption, [link1](https://twitter.com/skwp/status/1335627976105467906), [link2](https://www.usefultulips.org/), [link3](https://www.blockchain.com/charts/hash-rate)
 * on distribution [link1](https://twitter.com/LynAldenContact/status/1329547034886627329), [link2](https://coinmetrics.io/measuring-bitcoins-decentralization/)
-* 
+* [petrodollar system](https://www.lynalden.com/fraying-petrodollar-system/)
 
 ##### courses:
 * [princeton course, arvind narayanan](https://www.coursera.org/learn/cryptocurrency)
