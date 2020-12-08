@@ -6,6 +6,7 @@
 * [bitcoin concerns and faqs, nakamoto institute](https://nakamotoinstitute.org/mempool/)
 * [multi-signature](https://en.bitcoin.it/wiki/Multisignature)
 * [cypherpunks write code, documentary](https://www.youtube.com/playlist?list=PLBuns9Evn1w-T2RwqMhUnTZbTTe-M-g42)
+* [on energy consumption](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption?amp=1)
 
 ##### courses:
 * [princeton course, arvind narayanan](https://www.coursera.org/learn/cryptocurrency)
