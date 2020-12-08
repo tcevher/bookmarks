@@ -40,7 +40,8 @@
 * [bitcoin dev list](https://bitcoindevlist.com/)
 * [brink](https://brink.dev/)
 * [chaincode labs](https://chaincode.com/)
-* [cypherpunks](https://en.wikipedia.org/wiki/Cypherpunk), [phil salin](https://en.wikipedia.org/wiki/Phil_Salin)
+* [cypherpunks](https://en.wikipedia.org/wiki/Cypherpunk)
+* [phil salin](https://en.wikipedia.org/wiki/Phil_Salin)
 In 1984 Salin founded the American Information Exchange (AMiX), a network for the buying and selling of information, goods and services. Salin pioneered the concepts of buying and selling which are now considered standard ecommerce.AMiX did not patent their inventions. Therefore, the inventions of buying and selling electronically - ecommerce - entered public domain and became the basis for other enterprises such as eBay, Priceline and Amazon.
 
 
