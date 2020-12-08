@@ -7,6 +7,9 @@
 * [multi-signature](https://en.bitcoin.it/wiki/Multisignature)
 * [cypherpunks write code, documentary](https://www.youtube.com/playlist?list=PLBuns9Evn1w-T2RwqMhUnTZbTTe-M-g42)
 * [on energy consumption](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption?amp=1)
+* on adoption, [link1](https://twitter.com/skwp/status/1335627976105467906), [link2](https://www.usefultulips.org/), [link3](https://www.blockchain.com/charts/hash-rate)
+* on distribution [link1](https://twitter.com/LynAldenContact/status/1329547034886627329), [link2](https://coinmetrics.io/measuring-bitcoins-decentralization/)
+* 
 
 ##### courses:
 * [princeton course, arvind narayanan](https://www.coursera.org/learn/cryptocurrency)
@@ -37,5 +40,7 @@
 * [bitcoin dev list](https://bitcoindevlist.com/)
 * [brink](https://brink.dev/)
 * [chaincode labs](https://chaincode.com/)
+* [cypherpunks](https://en.wikipedia.org/wiki/Cypherpunk), [phil salin](https://en.wikipedia.org/wiki/Phil_Salin)
+In 1984 Salin founded the American Information Exchange (AMiX), a network for the buying and selling of information, goods and services. Salin pioneered the concepts of buying and selling which are now considered standard ecommerce.AMiX did not patent their inventions. Therefore, the inventions of buying and selling electronically - ecommerce - entered public domain and became the basis for other enterprises such as eBay, Priceline and Amazon.
 
 
