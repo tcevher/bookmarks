@@ -34,6 +34,7 @@
 * [open src computer sc](https://github.com/ossu/computer-science)
 * [another open src computer sc](https://github.com/ForrestKnight/open-source-cs)
 * [teach yourself cs](https://teachyourselfcs.com/)
+* [open source security training](https://opensecuritytraining.info/Training.html)
 
 
 ### startups
