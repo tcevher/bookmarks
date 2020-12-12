@@ -25,7 +25,7 @@
 ### coding tools
 * [gamma, data driven story telling](https://thegamma.net/)
 * [binder, turn git repo to interactive jupyter notebook](https://mybinder.org/)
-* [cast android screen on ubuntu](https://www.linuxbabe.com/ubuntu/how-to-install-adb-fastboot-ubuntu-16-04-16-10-14-04)
+* [cast android screen on ubuntu](https://israelaminu.medium.com/how-to-cast-your-android-screen-on-ubuntu-18-04-227abde95d63)
 
 
 ### learn cs
