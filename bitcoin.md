@@ -16,8 +16,7 @@
 
 ##### interesting podcast episodes:
 * [nick szabo on whatbitcoindid](https://www.whatbitcoindid.com/nick-szabo)
-* [nik bhatia on whatbitcoindid](https://www.whatbitcoindid.com/podcast/nik-bhatia-on-bitcoin-is-a-response-to-central-banks)
-* [michael saylor on whatbitcoindid](https://www.whatbitcoindid.com/podcast/bitcoin-in-the-boardroom)
+* [saifedean on whatbitcoindid](https://www.whatbitcoindid.com/podcast/saifedean-ammous-on-understanding-bitcoin-economics)
 
 
 ##### books:
