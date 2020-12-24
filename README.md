@@ -2,6 +2,7 @@
 * [privacy tools](https://www.privacytools.io)
 * [prism-break, privacy tools](https://prism-break.org/en/)
 * [qubes os tutorial](https://www.youtube.com/watch?v=Aghj8MyDF4I)
+* [tails os](https://tails.boum.org/)
 
 
 
