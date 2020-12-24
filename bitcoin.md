@@ -17,6 +17,7 @@
 ##### interesting podcast episodes:
 * [nick szabo on whatbitcoindid](https://www.whatbitcoindid.com/nick-szabo)
 * [saifedean on whatbitcoindid](https://www.whatbitcoindid.com/podcast/saifedean-ammous-on-understanding-bitcoin-economics)
+* [alex gladstein on whatbitcoindid](https://www.whatbitcoindid.com/podcast/alex-gladstein-on-why-bitcoin-and-decentralised-technology-matters-for-freedom)
 
 
 ##### books:
