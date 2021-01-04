@@ -7,7 +7,7 @@
 * [multi-signature](https://en.bitcoin.it/wiki/Multisignature)
 * [cypherpunks write code, documentary](https://www.youtube.com/playlist?list=PLBuns9Evn1w-T2RwqMhUnTZbTTe-M-g42)
 * [on energy consumption](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption?amp=1)
-* on adoption, [link1](https://twitter.com/skwp/status/1335627976105467906), [link2](https://qz.com/africa/1947769/nigeria-is-the-second-largest-bitcoin-market-after-the-us/), [link3](https://www.usefultulips.org/), [link4](https://www.blockchain.com/charts/hash-rate)
+* on adoption, [link1](https://twitter.com/skwp/status/1335627976105467906), [link2](https://qz.com/africa/1947769/nigeria-is-the-second-largest-bitcoin-market-after-the-us/), p2p volumes [1](https://coin.dance/volume/paxful), [2](https://www.usefultulips.org/), [hashrate](https://www.blockchain.com/charts/hash-rate)
 * on distribution [link1](https://twitter.com/LynAldenContact/status/1329547034886627329), [link2](https://coinmetrics.io/measuring-bitcoins-decentralization/)
 
 ##### courses:
