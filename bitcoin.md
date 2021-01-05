@@ -10,9 +10,6 @@
 * on adoption, [a twitter thread](https://twitter.com/skwp/status/1335627976105467906), [nigeria](https://qz.com/africa/1947769/nigeria-is-the-second-largest-bitcoin-market-after-the-us/), p2p volumes [here](https://coin.dance/volume/paxful), [and here](https://www.usefultulips.org/), [hashrate](https://www.blockchain.com/charts/hash-rate)
 * on distribution [link1](https://twitter.com/LynAldenContact/status/1329547034886627329), [link2](https://coinmetrics.io/measuring-bitcoins-decentralization/)
 
-##### courses:
-* [princeton course, arvind narayanan](https://www.coursera.org/learn/cryptocurrency)
-* [lightning network, chaincode labs](https://github.com/chaincodelabs/lightning-curriculum)
 
 ##### interesting podcast episodes:
 * [nick szabo on whatbitcoindid](https://www.whatbitcoindid.com/nick-szabo)
@@ -28,6 +25,9 @@
 * [mastering lightning network, open source book](https://github.com/lnbook/lnbook)
 
 
+##### courses:
+* [princeton course, arvind narayanan](https://www.coursera.org/learn/cryptocurrency)
+* [lightning network, chaincode labs](https://github.com/chaincodelabs/lightning-curriculum)
 
 
 ##### misc:
