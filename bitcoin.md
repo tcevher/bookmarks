@@ -34,6 +34,7 @@
 ##### misc:
 * [bitcoin core software](https://bitcoin.org/en/bitcoin-core/)
 * [bitcoin core code on github](https://github.com/bitcoin/bitcoin)
+* [bitcoin only](https://bitcoin-only.com/)
 * [lightning network](https://ln.guide/)
 * [lightning pool by lightning labs](https://lightning.engineering/posts/2020-11-02-lightning-pool/)
 * [sphinx chat on lightning](https://sphinx.chat/)
