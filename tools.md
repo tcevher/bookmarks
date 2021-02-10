@@ -1,7 +1,5 @@
 Router: pfsense
 
-Operating system: Pop!_OS
-
 Browser: ungoogled-chromium
 
 Recording: OBS
@@ -12,11 +10,9 @@ Messaging: Ferdi
 
 IRC: Weechat
 
-Password manager: Bitwarden_rs
+Password manager: Bitwarden_rs, Keepass
 
 2FA Authenticator: Aegis
-
-Social media: Pleroma
 
 Calendar & Contacts: Nextcloud
 
