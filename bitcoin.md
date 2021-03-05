@@ -20,7 +20,8 @@
 * on distribution [link1](https://twitter.com/LynAldenContact/status/1329547034886627329), [link2](https://coinmetrics.io/measuring-bitcoins-decentralization/)
 
 
-##### interesting podcast episodes:
+##### interesting talks/podcasts:
+* [michael saylor and ross stevens](https://www.microstrategy.com/en/bitcoin/videos/bitcoin-macro-strategy)
 * [nick szabo on whatbitcoindid](https://www.whatbitcoindid.com/nick-szabo)
 * [saifedean on whatbitcoindid](https://www.whatbitcoindid.com/podcast/saifedean-ammous-on-understanding-bitcoin-economics)
 * [alex gladstein on whatbitcoindid](https://www.whatbitcoindid.com/podcast/alex-gladstein-on-why-bitcoin-and-decentralised-technology-matters-for-freedom)
