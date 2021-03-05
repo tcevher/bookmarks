@@ -30,6 +30,7 @@
 ##### books:
 * [the little bitcoin book, jimmy song](https://www.amazon.com/Little-Bitcoin-Book-Matters-Finances/dp/1641990503/ref=sr_1_5?dchild=1&keywords=little+bitcoin+book&qid=1614972992&sr=8-5)
 * [the bitcoin standard, saifedean](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861/ref=sr_1_1?dchild=1&keywords=saifedean&qid=1606007632&sr=8-1)
+* [thank god for bitcoin, jimmy song](https://www.amazon.com/Thank-God-Bitcoin-Corruption-Redemption/dp/1641991216/ref=sr_1_1?dchild=1&keywords=thank+god+for+bitcoin&qid=1614976491&sr=8-1)
 * [sovereign individual, davidson](https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720/ref=sr_1_2?crid=2TVFFKXB4U7IC&dchild=1&keywords=sovereign+individual&qid=1606007663&sprefix=sovereign+indiv%2Caps%2C370&sr=8-2)
 * [the structure of scientific revolutions, thomas kuhn](https://www.amazon.com/Structure-Scientific-Revolutions-Thomas-Kuhn/dp/0226458083)
 * [grokking bitcoin, rosenbaum - open source book](https://www.manning.com/books/grokking-bitcoin#toc)
