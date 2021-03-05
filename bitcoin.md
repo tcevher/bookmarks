@@ -3,7 +3,7 @@
 * [hello bitcoin slides](https://www.hellobitco.in/)
 * [economics of bitcoin, saifedean](https://www.youtube.com/watch?v=1WBrdLQhUrg)
 * [original bitcoin paper](https://nakamotoinstitute.org/bitcoin/)
-* [not your keys, not your bitcoin](https://www.swanbitcoin.com/bitcoin-wallets-not-your-keys-not-your-bitcoin/)
+* wallets: [not your keys, not your bitcoin](https://www.swanbitcoin.com/bitcoin-wallets-not-your-keys-not-your-bitcoin/)
 * [multi-signature](https://en.bitcoin.it/wiki/Multisignature)
 * [cypherpunks write code, documentary](https://www.youtube.com/playlist?list=PLBuns9Evn1w-T2RwqMhUnTZbTTe-M-g42)
 * [lightning network overview](https://dev.lightning.community/overview/)
