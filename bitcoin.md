@@ -9,7 +9,7 @@
 * [lightning network overview](https://dev.lightning.community/overview/)
 
 
-#### great articles:
+##### great articles:
 * [bitcoin is the great definancialization, parker lewis](https://nakamotoinstitute.org/mempool/bitcoin-is-the-great-definancialization/)
 * [the bullish case for bitcoin, vijay boyapati](https://vijayboyapati.medium.com/the-bullish-case-for-bitcoin-6ecc8bdecc1)
 * [bitcoin is time](https://dergigi.com/2021/01/14/bitcoin-is-time/)
