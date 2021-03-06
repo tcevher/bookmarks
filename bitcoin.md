@@ -29,6 +29,7 @@
 
 ##### books:
 * [the little bitcoin book, jimmy song](https://www.amazon.com/Little-Bitcoin-Book-Matters-Finances/dp/1641990503/ref=sr_1_5?dchild=1&keywords=little+bitcoin+book&qid=1614972992&sr=8-5)
+* [21 lessons, gigi](https://www.amazon.com/gp/product/1697526349/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1697526349&linkCode=as2&tag=dergigi-20&linkId=b17de885d1dfaf3cec52479f69374fbb#customerReviews)
 * [the bitcoin standard, saifedean](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861/ref=sr_1_1?dchild=1&keywords=saifedean&qid=1606007632&sr=8-1)
 * [thank god for bitcoin, jimmy song](https://www.amazon.com/Thank-God-Bitcoin-Corruption-Redemption/dp/1641991216/ref=sr_1_1?dchild=1&keywords=thank+god+for+bitcoin&qid=1614976491&sr=8-1)
 * [sovereign individual, davidson](https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720/ref=sr_1_2?crid=2TVFFKXB4U7IC&dchild=1&keywords=sovereign+individual&qid=1606007663&sprefix=sovereign+indiv%2Caps%2C370&sr=8-2)
