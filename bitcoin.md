@@ -56,6 +56,5 @@
 * [brink](https://brink.dev/)
 * [chaincode labs](https://chaincode.com/)
 * [cypherpunks](https://en.wikipedia.org/wiki/Cypherpunk)
-* [phil salin](https://en.wikipedia.org/wiki/Phil_Salin)
 
 
