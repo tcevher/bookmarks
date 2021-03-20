@@ -5,7 +5,7 @@ invasive:
 * [chad bouton, feinstein institute](https://www.youtube.com/watch?v=BPI7XWPSbS4)
 
 non-invasive:
-* [neosensory (david eagleman)](https://neosensory.com/)
+* [neosensory](https://neosensory.com/)
 * [ctrl-labs](https://www.ctrl-labs.com/)
 * [kernel](https://www.kernel.co/)
 * [neurable](https://www.neurable.com/)
