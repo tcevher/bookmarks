@@ -27,6 +27,14 @@
 * [alex gladstein on whatbitcoindid](https://www.whatbitcoindid.com/podcast/alex-gladstein-on-why-bitcoin-and-decentralised-technology-matters-for-freedom)
 
 
+
+##### newsletters:
+* [marty bent](https://tftc.io/martys-bent/#)
+* [bitcoin optech](https://bitcoinops.org/)
+* [jimmy song](https://jimmysong.substack.com/)
+* [castle island ventures](https://www.castleisland.vc/#)
+
+
 ##### books:
 * [the little bitcoin book, jimmy song](https://www.amazon.com/Little-Bitcoin-Book-Matters-Finances/dp/1641990503/ref=sr_1_5?dchild=1&keywords=little+bitcoin+book&qid=1614972992&sr=8-5)
 * [21 lessons, gigi](https://www.amazon.com/gp/product/1697526349/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1697526349&linkCode=as2&tag=dergigi-20&linkId=b17de885d1dfaf3cec52479f69374fbb#customerReviews)
