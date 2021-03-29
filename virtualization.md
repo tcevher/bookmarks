@@ -2,7 +2,7 @@
 sudo apt-get install gnome-boxes
 
 
-##### virtualbox:
+#### virtualbox:
 * download file [here](https://www.virtualbox.org/wiki/Downloads)
 * sudo apt install --reinstall virtualbox-dkms && sudo apt install libelf-dev
 * sudo /sbin/vboxconfig
@@ -10,7 +10,7 @@ sudo apt-get install gnome-boxes
 
 
 
-##### linux distros:
+#### linux distros for vms:
 * [puppy linux](https://puppylinux.com/)
 * [whonix](https://www.whonix.org/)
 * debian: lubuntu
