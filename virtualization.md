@@ -13,7 +13,7 @@ sudo apt-get install gnome-boxes
 #### linux distros for vms:
 * [whonix](https://www.whonix.org/)
 * [puppy linux](https://puppylinux.com/)
-* debian: lubuntu
+* [lubuntu](https://lubuntu.me/downloads/)
 
 
 
