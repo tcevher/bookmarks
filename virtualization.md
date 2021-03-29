@@ -11,6 +11,11 @@ sudo apt-get install gnome-boxes
 
 
 #### linux distros for vms:
-* [puppy linux](https://puppylinux.com/)
 * [whonix](https://www.whonix.org/)
+* [puppy linux](https://puppylinux.com/)
 * debian: lubuntu
+
+
+
+##### notes:
+* whonix default username/pw : user/changeme
