@@ -38,6 +38,7 @@
 * [another open src computer sc](https://github.com/ForrestKnight/open-source-cs)
 * [teach yourself cs](https://teachyourselfcs.com/)
 * [open source security training](https://opensecuritytraining.info/Training.html)
+* [coding interviews](https://github.com/jwasham/coding-interview-university)
 
 
 ### startups
