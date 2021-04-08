@@ -25,7 +25,8 @@
 * [tmux tutorial](https://linuxize.com/post/getting-started-with-tmux/)
 
 
-### coding tools
+### tools
+* [magic wormhole, file transfer](https://magic-wormhole.readthedocs.io/en/latest/welcome.html#installation)
 * [gamma, data driven story telling](https://thegamma.net/)
 * [binder, turn git repo to interactive jupyter notebook](https://mybinder.org/)
 * [cast android screen on ubuntu](https://israelaminu.medium.com/how-to-cast-your-android-screen-on-ubuntu-18-04-227abde95d63)
