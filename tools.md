@@ -10,9 +10,9 @@ Messaging: Ferdi
 
 IRC: Weechat
 
-Password manager: Bitwarden_rs, Keepass
+Password manager:  Keepass, Bitwarden_rs
 
-2FA Authenticator: Aegis
+2FA Authenticator: KeepassXC, Aegis
 
 Calendar & Contacts: Nextcloud
 
