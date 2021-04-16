@@ -12,6 +12,7 @@
 ##### great articles:
 * [bitcoin is the great definancialization, parker lewis](https://nakamotoinstitute.org/mempool/bitcoin-is-the-great-definancialization/)
 * [the bullish case for bitcoin, vijay boyapati](https://vijayboyapati.medium.com/the-bullish-case-for-bitcoin-6ecc8bdecc1)
+* [the greatest game](https://medium.com/the-bitcoin-times/the-greatest-game-b787ac3242b2)
 * [bitcoin is time](https://dergigi.com/2021/01/14/bitcoin-is-time/)
 * [bitcoin doesn't waste energy](https://nakamotoinstitute.org/mempool/bitcoin-does-not-waste-energy/)
 * [bitcoin concerns and faqs, nakamoto institute](https://nakamotoinstitute.org/mempool/)
