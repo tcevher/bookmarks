@@ -23,6 +23,7 @@
 * [toml](https://en.wikipedia.org/wiki/TOML)
 * [my vim guide](https://github.com/nsingla/vim_settings)
 * [tmux tutorial](https://linuxize.com/post/getting-started-with-tmux/)
+* [mech keyboard switches](https://mechanicalkeyboards.com/switches/index.php?brand=&stem=&feel=&sort=Typing)
 
 
 ### tools
