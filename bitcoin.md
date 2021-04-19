@@ -34,6 +34,7 @@
 * [marty bent](https://tftc.io/martys-bent/#)
 * [bitcoin optech](https://bitcoinops.org/)
 * [jimmy song](https://jimmysong.substack.com/)
+* [nydig research](https://nydig.com/research-subscription/)
 * [castle island ventures](https://www.castleisland.vc/#)
 
 
@@ -69,6 +70,4 @@
 * [seedplate reviews](https://jlopp.github.io/metal-bitcoin-storage-reviews/)
 
 
-##### shitcoins:
-![image](https://user-images.githubusercontent.com/43543054/114928543-b80d4c80-9e00-11eb-97dd-36b6cb97a125.png)
 
