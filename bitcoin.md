@@ -1,4 +1,4 @@
-### [whybitcoin.xyz](https://open.spotify.com/episode/1oeGaedQO9dmaKNTQUdRyZ?si=GMwk_Lp_REuwiO6gXMFwSQ&nd=1)
+### [whybitcoin.xyz](http://whybitcoin.xyz)
 
 
 ![image](https://user-images.githubusercontent.com/43543054/115479399-55f48300-a216-11eb-977e-6c4ada00840a.png)
