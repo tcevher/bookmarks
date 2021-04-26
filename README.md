@@ -1,4 +1,5 @@
 ### software tools
+* [firefox containers extension](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
 * [privacy tools](https://www.privacytools.io)
 * [prism-break, privacy tools](https://prism-break.org/en/)
 * [opt out privacy settings](https://simpleoptout.com/)
