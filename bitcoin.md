@@ -30,6 +30,14 @@
 * on distribution [link1](https://twitter.com/LynAldenContact/status/1329547034886627329), [link2](https://coinmetrics.io/measuring-bitcoins-decentralization/)
 
 
+
+##### try lightning network:
+* wallets: [phoenix](https://phoenix.acinq.co/) and [muun](https://muun.com/)
+* get instant virtual card with lightning, [here](https://paywithmoon.com/)
+* gift with lightning, [here](https://lightning.gifts/)
+
+
+
 ##### interesting talks/podcasts:
 * [michael saylor and ross stevens](https://www.microstrategy.com/en/bitcoin/videos/bitcoin-macro-strategy)
 * [nick szabo on whatbitcoindid](https://www.whatbitcoindid.com/nick-szabo)
