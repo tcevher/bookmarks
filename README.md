@@ -2,6 +2,7 @@
 * [firefox containers extension](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
 * [email aliases](https://simplelogin.io/)
 * [best vpn - mullvad](https://simplelogin.io/)
+* [magic wormhole, file transfer](https://magic-wormhole.readthedocs.io/en/latest/welcome.html#installation)
 * [privacy tools](https://www.privacytools.io)
 * [prism-break, privacy tools](https://prism-break.org/en/)
 * [opt out privacy settings](https://simpleoptout.com/)
@@ -9,12 +10,6 @@
 * [tails os](https://tails.boum.org/)
 * [whonix](https://www.whonix.org/)
 
-
-
-### science
-* [top academic papers](https://www.fermatslibrary.com/journal_club)
-* [mental models](https://fs.blog/mental-models/)
-* [better thinking/models](https://untools.co/)
 
 
 ### coding
@@ -29,11 +24,11 @@
 * [mech keyboard switches](https://mechanicalkeyboards.com/switches/index.php?brand=&stem=&feel=&sort=Typing)
 
 
-### tools
-* [magic wormhole, file transfer](https://magic-wormhole.readthedocs.io/en/latest/welcome.html#installation)
+### more tools
 * [gamma, data driven story telling](https://thegamma.net/)
 * [binder, turn git repo to interactive jupyter notebook](https://mybinder.org/)
 * [cast android screen on ubuntu](https://israelaminu.medium.com/how-to-cast-your-android-screen-on-ubuntu-18-04-227abde95d63)
+
 
 
 ### learn cs
@@ -44,6 +39,12 @@
 * [teach yourself cs](https://teachyourselfcs.com/)
 * [open source security training](https://opensecuritytraining.info/Training.html)
 * [coding interviews](https://github.com/jwasham/coding-interview-university)
+
+
+### learn more
+* [top academic papers](https://www.fermatslibrary.com/journal_club)
+* [mental models](https://fs.blog/mental-models/)
+* [better thinking/models](https://untools.co/)
 
 
 ### startups
