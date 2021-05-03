@@ -74,7 +74,7 @@
 
 
 ##### misc:
-* [whynotethereum.xyz](whynotethereum.xyz)
+* [whynotethereum.xyz](http://whynotethereum.xyz)
 * [bitcoin-only.com](https://bitcoin-only.com/)
 * [bitcoin core software](https://bitcoin.org/en/bitcoin-core/)
 * [bitcoin core code on github](https://github.com/bitcoin/bitcoin)
