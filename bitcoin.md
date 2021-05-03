@@ -23,6 +23,7 @@
 * [the greatest game](https://medium.com/the-bitcoin-times/the-greatest-game-b787ac3242b2)
 * [bitcoin is time](https://dergigi.com/2021/01/14/bitcoin-is-time/)
 * [bitcoin doesn't waste energy](https://nakamotoinstitute.org/mempool/bitcoin-does-not-waste-energy/)
+* [hidden costs of the petrodollar](https://bitcoinmagazine.com/culture/the-hidden-costs-of-the-petrodollar)
 * [bitcoin concerns and faqs, nakamoto institute](https://nakamotoinstitute.org/mempool/)
 * [illicit use?](https://www.forbes.com/sites/stevenehrlich/2021/04/13/janet-yellen-bitcoin-and-crypto-fearmongers-get-pushback-from-former-cia-director/?sh=5bc4cfc09bb7)
 * on energy consumption: [square paper](https://t.co/UmayxNtCFJ?amp=1), [nic carter article-1](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption?amp=1), [nic carter article-2](https://www.coindesk.com/frustrating-maddening-all-consuming-bitcoin-energy-debate), [nic carter analysis of nyt article](https://medium.com/@nic__carter/on-bitcoin-the-gray-lady-embraces-climate-lysenkoism-a2d31e465ec0)
