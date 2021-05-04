@@ -25,11 +25,11 @@
 * [bitcoin is time](https://dergigi.com/2021/01/14/bitcoin-is-time/)
 * [bitcoin doesn't waste energy](https://nakamotoinstitute.org/mempool/bitcoin-does-not-waste-energy/)
 * [hidden costs of the petrodollar](https://bitcoinmagazine.com/culture/the-hidden-costs-of-the-petrodollar)
-* [bitcoin concerns and faqs, nakamoto institute](https://nakamotoinstitute.org/mempool/)
 * [illicit use?](https://www.forbes.com/sites/stevenehrlich/2021/04/13/janet-yellen-bitcoin-and-crypto-fearmongers-get-pushback-from-former-cia-director/?sh=5bc4cfc09bb7)
 * on energy consumption: [square paper](https://t.co/UmayxNtCFJ?amp=1), [nic carter article-1](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption?amp=1), [nic carter article-2](https://www.coindesk.com/frustrating-maddening-all-consuming-bitcoin-energy-debate), [nic carter analysis of nyt article](https://medium.com/@nic__carter/on-bitcoin-the-gray-lady-embraces-climate-lysenkoism-a2d31e465ec0)
 * on adoption, [a twitter thread](https://twitter.com/skwp/status/1335627976105467906), [nigeria](https://qz.com/africa/1947769/nigeria-is-the-second-largest-bitcoin-market-after-the-us/), p2p volumes [here](https://coin.dance/volume/paxful), [and here](https://www.usefultulips.org/), [hashrate](https://www.blockchain.com/charts/hash-rate)
 * on distribution [link1](https://twitter.com/LynAldenContact/status/1329547034886627329), [link2](https://coinmetrics.io/measuring-bitcoins-decentralization/)
+* [bitcoin concerns and faqs, nakamoto institute](https://nakamotoinstitute.org/mempool/)
 
 
 
