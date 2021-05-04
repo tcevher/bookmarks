@@ -1,7 +1,7 @@
 ### software tools
 * [firefox containers extension](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
 * [email aliases](https://simplelogin.io/)
-* [best vpn - mullvad](https://mullvad.net/en/)
+* [vpn - mullvad](https://mullvad.net/en/)
 * [magic wormhole, file transfer](https://magic-wormhole.readthedocs.io/en/latest/welcome.html#installation)
 * [privacy tools](https://www.privacytools.io)
 * [prism-break, privacy tools](https://prism-break.org/en/)
