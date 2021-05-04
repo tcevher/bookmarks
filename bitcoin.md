@@ -5,7 +5,6 @@
 
 
 ![image](https://user-images.githubusercontent.com/43543054/116915683-5891a800-ac1a-11eb-83bf-010f53747e13.png)
-![image](https://user-images.githubusercontent.com/43543054/117055701-711cc380-ace9-11eb-8c80-ed76c47ec71d.png)
 
 
 
@@ -90,5 +89,8 @@
 * [cypherpunks](https://en.wikipedia.org/wiki/Cypherpunk)
 * [seedplate reviews](https://jlopp.github.io/metal-bitcoin-storage-reviews/)
 
+
+
+![image](https://user-images.githubusercontent.com/43543054/117055701-711cc380-ace9-11eb-8c80-ed76c47ec71d.png)
 
 
