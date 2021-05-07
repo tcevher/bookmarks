@@ -4,10 +4,6 @@
 ![image](https://user-images.githubusercontent.com/43543054/115479399-55f48300-a216-11eb-977e-6c4ada00840a.png)
 
 
-![image](https://user-images.githubusercontent.com/43543054/116915683-5891a800-ac1a-11eb-83bf-010f53747e13.png)
-
-
-
 ##### introductory:
 * [hello bitcoin slides](https://www.hellobitco.in/)
 * [economics of bitcoin, saifedean](https://www.youtube.com/watch?v=1WBrdLQhUrg)
