@@ -72,7 +72,6 @@
 
 
 ##### misc:
-* [whynotethereum.xyz](http://whynotethereum.xyz)
 * [bitcoin-only.com](https://bitcoin-only.com/)
 * [bitcoin core software](https://bitcoin.org/en/bitcoin-core/)
 * [bitcoin core code on github](https://github.com/bitcoin/bitcoin)
@@ -85,6 +84,8 @@
 * [chaincode labs](https://chaincode.com/)
 * [cypherpunks](https://en.wikipedia.org/wiki/Cypherpunk)
 * [seedplate reviews](https://jlopp.github.io/metal-bitcoin-storage-reviews/)
+* [whynotethereum.xyz](http://whynotethereum.xyz)
+
 
 
 
