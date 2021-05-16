@@ -39,7 +39,6 @@
 
 
 ##### interesting talks/podcasts:
-* [bill maher destroyed by saylor](https://www.youtube.com/watch?v=0N6zl3BkCnw)
 * [michael saylor and ross stevens](https://www.microstrategy.com/en/bitcoin/videos/bitcoin-macro-strategy)
 * [nick szabo on whatbitcoindid](https://www.whatbitcoindid.com/nick-szabo)
 * [saifedean on whatbitcoindid](https://www.whatbitcoindid.com/podcast/saifedean-ammous-on-understanding-bitcoin-economics)
