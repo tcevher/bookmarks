@@ -36,6 +36,7 @@
 * get instant virtual card with lightning, [here](https://paywithmoon.com/)
 * gift with lightning, [here](https://lightning.gifts/)
 * [how to run a lightning node, btc sessions](https://www.youtube.com/watch?v=KItleddMYFU)
+* [umbrel: run bitcoin node and lightning node from single dashboard](https://getumbrel.com/)
 
 
 
