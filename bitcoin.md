@@ -29,6 +29,7 @@
 * [bitcoin concerns and faqs, nakamoto institute](https://nakamotoinstitute.org/mempool/)
 
 
+![image](https://user-images.githubusercontent.com/43543054/119076124-07c2d300-b9c0-11eb-8a42-6d25798dc399.png)
 
 ##### try lightning network:
 * wallets: [phoenix](https://phoenix.acinq.co/) and [muun](https://muun.com/)
