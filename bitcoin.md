@@ -27,6 +27,7 @@
 * on adoption, [a twitter thread](https://twitter.com/skwp/status/1335627976105467906), [nigeria](https://qz.com/africa/1947769/nigeria-is-the-second-largest-bitcoin-market-after-the-us/), p2p volumes [here](https://coin.dance/volume/paxful), [and here](https://www.usefultulips.org/), [hashrate](https://www.blockchain.com/charts/hash-rate)
 * on distribution [link1](https://twitter.com/LynAldenContact/status/1329547034886627329), [link2](https://coinmetrics.io/measuring-bitcoins-decentralization/)
 * [bitcoin concerns and faqs, nakamoto institute](https://nakamotoinstitute.org/mempool/)
+* [end the fud](https://endthefud.org/)
 
 
 ![image](https://user-images.githubusercontent.com/43543054/119076124-07c2d300-b9c0-11eb-8a42-6d25798dc399.png)
