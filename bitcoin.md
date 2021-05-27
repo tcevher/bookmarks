@@ -41,7 +41,7 @@
 
 
 
-##### interesting talks/podcasts:
+##### interesting talks:
 * [michael saylor and ross stevens](https://www.microstrategy.com/en/bitcoin/videos/bitcoin-macro-strategy)
 * [nick szabo on whatbitcoindid](https://www.whatbitcoindid.com/nick-szabo)
 * [saifedean on whatbitcoindid](https://www.whatbitcoindid.com/podcast/saifedean-ammous-on-understanding-bitcoin-economics)
@@ -49,12 +49,19 @@
 
 
 
+
+##### podcasts:
+* [bitcoin fundamentals, preston pysh](https://www.theinvestorspodcast.com/bitcoin-fundamentals/)
+* [tales from the crypt, marty bent](https://tftc.io/podcasts/)
+
+
+
 ##### newsletters:
 * [marty bent](https://tftc.io/martys-bent/#)
-* [bitcoin optech](https://bitcoinops.org/)
 * [jimmy song](https://jimmysong.substack.com/)
 * [nydig research](https://nydig.com/research-subscription/)
 * [castle island ventures](https://www.castleisland.vc/#)
+* [bitcoin optech -quite technical](https://bitcoinops.org/)
 
 
 ##### books:
