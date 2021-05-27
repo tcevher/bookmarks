@@ -94,6 +94,7 @@
 * [sphinx chat on lightning](https://sphinx.chat/)
 * [bitcoin dev list](https://bitcoindevlist.com/)
 * [brink](https://brink.dev/)
+* [opensats](https://opensats.org/)
 * [chaincode labs](https://chaincode.com/)
 * [cypherpunks](https://en.wikipedia.org/wiki/Cypherpunk)
 * [anarcho-capitalism](https://en.wikipedia.org/wiki/Anarcho-capitalism)
