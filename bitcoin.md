@@ -1,5 +1,7 @@
 ### [whybitcoin.xyz](http://whybitcoin.xyz)
 
+![image](https://user-images.githubusercontent.com/43543054/120704617-cbde4200-c484-11eb-9082-6ddee862ee6d.png)
+
 
 ![image](https://user-images.githubusercontent.com/43543054/115479399-55f48300-a216-11eb-977e-6c4ada00840a.png)
 
@@ -118,6 +120,3 @@
 
 
 ![image](https://user-images.githubusercontent.com/43543054/119600413-feb57580-bdb4-11eb-87a3-b83bb1e187f6.png)
-
-
-![image](https://user-images.githubusercontent.com/43543054/120704617-cbde4200-c484-11eb-9082-6ddee862ee6d.png)
