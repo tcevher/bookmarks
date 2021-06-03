@@ -88,7 +88,12 @@
 * [lightning network, chaincode labs](https://github.com/chaincodelabs/lightning-curriculum)
 
 
-##### misc:
+#### misc:
+* [statechains](https://bitcoinmagazine.com/technical/statechains-sending-keys-not-coins-to-scale-bitcoin-off-chain)
+* [sidechains](https://en.bitcoin.it/wiki/Sidechain)
+
+
+##### useful websites:
 * [bitcoin-only.com](https://bitcoin-only.com/)
 * [bitcoin core software](https://bitcoin.org/en/bitcoin-core/)
 * [bitcoin core code on github](https://github.com/bitcoin/bitcoin)
