@@ -1,8 +1,5 @@
 ### [whybitcoin.xyz](http://whybitcoin.xyz)
 
-![image](https://user-images.githubusercontent.com/43543054/120704617-cbde4200-c484-11eb-9082-6ddee862ee6d.png)
-
-
 ![image](https://user-images.githubusercontent.com/43543054/115479399-55f48300-a216-11eb-977e-6c4ada00840a.png)
 
 
@@ -110,6 +107,7 @@
 * [cypherpunks](https://en.wikipedia.org/wiki/Cypherpunk)
 * [anarcho-capitalism](https://en.wikipedia.org/wiki/Anarcho-capitalism)
 * [seedplate reviews](https://jlopp.github.io/metal-bitcoin-storage-reviews/)
+* [wtf happened in 1971](https://wtfhappenedin1971.com/)
 * [whynotethereum.xyz](http://whynotethereum.xyz)
 
 
