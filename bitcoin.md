@@ -65,6 +65,7 @@
 ##### newsletters:
 * [marty bent](https://tftc.io/martys-bent/#)
 * [jimmy song](https://jimmysong.substack.com/)
+* [bitcoin audible, guy swann](https://anchor.fm/thecryptoconomy)
 * [nydig research](https://nydig.com/research-subscription/)
 * [castle island ventures](https://www.castleisland.vc/#)
 * [bitcoin optech -quite technical](https://bitcoinops.org/)
