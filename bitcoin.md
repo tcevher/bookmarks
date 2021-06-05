@@ -109,7 +109,7 @@
 * [seedplate reviews](https://jlopp.github.io/metal-bitcoin-storage-reviews/)
 * [wtf happened in 1971](https://wtfhappenedin1971.com/)
 * [whynotethereum.xyz](http://whynotethereum.xyz)
-
+* bitcoin conference 2021: [day1](https://www.youtube.com/watch?v=VVDNEnRAZU4), [day2](https://www.youtube.com/watch?v=VVDNEnRAZU4)
 
 ![image](https://user-images.githubusercontent.com/43543054/119070751-99c5de00-b9b6-11eb-9844-9e6e41a8ff6b.png)
 
