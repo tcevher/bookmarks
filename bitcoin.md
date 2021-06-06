@@ -45,12 +45,11 @@
 
 
 ##### interesting talks:
+* [cypherpunk and computer scientist nick szabo](https://www.whatbitcoindid.com/nick-szabo)
+* [author of bitcoin standard, saifedean](https://www.whatbitcoindid.com/podcast/saifedean-ammous-on-understanding-bitcoin-economics)
+* [human rights activist, alex gladstein](https://www.whatbitcoindid.com/podcast/alex-gladstein-on-why-bitcoin-and-decentralised-technology-matters-for-freedom)
+* [microstrategy ceo michael saylor and nydig founder ross stevens](https://www.microstrategy.com/en/bitcoin/videos/bitcoin-macro-strategy)
 * bitcoin conference 2021: [day1](https://www.youtube.com/watch?v=Zp43Ktm3wos), [day2](https://www.youtube.com/watch?v=VVDNEnRAZU4)
-* [michael saylor and ross stevens](https://www.microstrategy.com/en/bitcoin/videos/bitcoin-macro-strategy)
-* [nick szabo on whatbitcoindid](https://www.whatbitcoindid.com/nick-szabo)
-* [saifedean on whatbitcoindid](https://www.whatbitcoindid.com/podcast/saifedean-ammous-on-understanding-bitcoin-economics)
-* [alex gladstein on whatbitcoindid](https://www.whatbitcoindid.com/podcast/alex-gladstein-on-why-bitcoin-and-decentralised-technology-matters-for-freedom)
-
 
 
 
