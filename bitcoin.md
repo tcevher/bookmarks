@@ -45,7 +45,7 @@
 
 
 ##### interesting talks:
-* [cypherpunk and computer scientist nick szabo](https://www.whatbitcoindid.com/nick-szabo)
+* [cypherpunk and computer scientist, nick szabo](https://www.whatbitcoindid.com/nick-szabo)
 * [author of bitcoin standard, saifedean](https://www.whatbitcoindid.com/podcast/saifedean-ammous-on-understanding-bitcoin-economics)
 * [human rights activist, alex gladstein](https://www.whatbitcoindid.com/podcast/alex-gladstein-on-why-bitcoin-and-decentralised-technology-matters-for-freedom)
 * [microstrategy ceo michael saylor and nydig founder ross stevens](https://www.microstrategy.com/en/bitcoin/videos/bitcoin-macro-strategy)
