@@ -45,6 +45,7 @@
 
 
 ##### interesting talks:
+* bitcoin conference 2021: [day1](https://www.youtube.com/watch?v=Zp43Ktm3wos), [day2](https://www.youtube.com/watch?v=VVDNEnRAZU4)
 * [michael saylor and ross stevens](https://www.microstrategy.com/en/bitcoin/videos/bitcoin-macro-strategy)
 * [nick szabo on whatbitcoindid](https://www.whatbitcoindid.com/nick-szabo)
 * [saifedean on whatbitcoindid](https://www.whatbitcoindid.com/podcast/saifedean-ammous-on-understanding-bitcoin-economics)
@@ -110,7 +111,7 @@
 * [seedplate reviews](https://jlopp.github.io/metal-bitcoin-storage-reviews/)
 * [wtf happened in 1971](https://wtfhappenedin1971.com/)
 * [whynotethereum.xyz](http://whynotethereum.xyz)
-* bitcoin conference 2021: [day1](https://www.youtube.com/watch?v=Zp43Ktm3wos), [day2](https://www.youtube.com/watch?v=VVDNEnRAZU4)
+
 
 ![image](https://user-images.githubusercontent.com/43543054/119070751-99c5de00-b9b6-11eb-9844-9e6e41a8ff6b.png)
 
