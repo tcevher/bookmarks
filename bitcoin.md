@@ -100,6 +100,7 @@
 * [bitcoin-only.com](https://bitcoin-only.com/)
 * [bitcoin core software](https://bitcoin.org/en/bitcoin-core/)
 * [bitcoin core code on github](https://github.com/bitcoin/bitcoin)
+* [bitcoin.ninja](https://bitcoin.ninja/)
 * [lightning network guide](https://ln.guide/)
 * [lightning pool by lightning labs](https://lightning.engineering/posts/2020-11-02-lightning-pool/)
 * [mempool stats](https://mempool.space/)
