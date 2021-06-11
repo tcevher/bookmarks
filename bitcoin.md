@@ -1,8 +1,8 @@
 ### [whybitcoin.xyz](http://whybitcoin.xyz)
 
-![image](https://user-images.githubusercontent.com/43543054/115479399-55f48300-a216-11eb-977e-6c4ada00840a.png)
-![image](https://user-images.githubusercontent.com/43543054/120952636-6f478500-c719-11eb-9563-e77e0eb9a3f5.png)
 
+![image](https://user-images.githubusercontent.com/43543054/120952636-6f478500-c719-11eb-9563-e77e0eb9a3f5.png)
+![image](https://user-images.githubusercontent.com/43543054/115479399-55f48300-a216-11eb-977e-6c4ada00840a.png)
 
 
 ##### introductory:
@@ -105,6 +105,7 @@
 * [lightning pool by lightning labs](https://lightning.engineering/posts/2020-11-02-lightning-pool/)
 * [mempool stats](https://mempool.space/)
 * [sphinx chat on lightning](https://sphinx.chat/)
+* [open source banking on btc/lightning, galoy](https://github.com/GaloyMoney)
 * [bitcoin dev list](https://bitcoindevlist.com/)
 * [brink](https://brink.dev/)
 * [opensats](https://opensats.org/)
