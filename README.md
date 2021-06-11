@@ -41,10 +41,12 @@
 * [coding interviews](https://github.com/jwasham/coding-interview-university)
 
 
-### learn more
+### learn misc
 * [top academic papers](https://www.fermatslibrary.com/journal_club)
 * [mental models](https://fs.blog/mental-models/)
 * [better thinking/models](https://untools.co/)
+* [how to debate](https://www.sfu.ca/cmns/130d1/HOWTODEBATE.htm)
+* [socrates examied life](https://antigonejournal.com/2021/06/socrates-examined-life/)
 
 
 ### startups
