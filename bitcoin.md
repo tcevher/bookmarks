@@ -62,6 +62,8 @@
 * [bitcoin fixes this, jimmy song](https://podcasts.apple.com/us/podcast/bitcoin-fixes-this/id1523910866)
 * [bitcoin audible, guy swann](https://anchor.fm/thecryptoconomy)
 * [chaincode podcast](https://podcast.chaincode.com/)
+* [bitcointv.com](https://bitcointv.com/videos/overview)
+
 
 
 ##### newsletters:
@@ -69,7 +71,6 @@
 * [jimmy song](https://jimmysong.substack.com/)
 * [bitcoin audible, guy swann](https://anchor.fm/thecryptoconomy)
 * [nydig research](https://nydig.com/research-subscription/)
-* [castle island ventures](https://www.castleisland.vc/#)
 * [bitcoin optech -quite technical](https://bitcoinops.org/)
 
 
