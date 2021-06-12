@@ -119,10 +119,5 @@
 * [why not alts](https://jimmysong.medium.com/on-altcoin-valuation-bf19a30ee0df)
 
 
-![image](https://user-images.githubusercontent.com/43543054/119070751-99c5de00-b9b6-11eb-9844-9e6e41a8ff6b.png)
-
-
-![image](https://user-images.githubusercontent.com/43543054/119070861-c679f580-b9b6-11eb-9f78-3c64af2c2a85.png)
-
 
 ![image](https://user-images.githubusercontent.com/43543054/119600413-feb57580-bdb4-11eb-87a3-b83bb1e187f6.png)
