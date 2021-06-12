@@ -101,6 +101,7 @@
 * [bitcoin core code on github](https://github.com/bitcoin/bitcoin)
 * [bitcoin.ninja](https://bitcoin.ninja/)
 * [lightning network guide](https://ln.guide/)
+* [lightning resources](https://github.com/bcongdon/awesome-lightning-network#implementations)
 * [lightning pool by lightning labs](https://lightning.engineering/posts/2020-11-02-lightning-pool/)
 * [mempool stats](https://mempool.space/)
 * [sphinx chat on lightning](https://sphinx.chat/)
