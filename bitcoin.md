@@ -33,17 +33,6 @@
 * [end the fud](https://endthefud.org/)
 
 
-![image](https://user-images.githubusercontent.com/43543054/119076124-07c2d300-b9c0-11eb-8a42-6d25798dc399.png)
-
-##### try lightning network:
-* wallets: [phoenix](https://phoenix.acinq.co/) and [muun](https://muun.com/)
-* get instant virtual card with lightning, [here](https://paywithmoon.com/)
-* gift with lightning, [here](https://lightning.gifts/)
-* [how to run a lightning node, btc sessions](https://www.youtube.com/watch?v=KItleddMYFU)
-* [umbrel: run bitcoin node and lightning node from single dashboard](https://getumbrel.com/)
-* [comparison of lightning wallets](https://docs.google.com/spreadsheets/d/1jzJ2Vut6q-cbr7bg3tshqJszJFLXpvi194os7GxQQ30/edit#gid=1531699029)
-
-
 
 ##### podcasts:
 * [stephen livera podcast](https://stephanlivera.com/)
@@ -109,6 +98,17 @@
 * [wtf happened in 1971](https://wtfhappenedin1971.com/)
 * [whynotethereum.xyz](http://whynotethereum.xyz)
 * [why not alts](https://jimmysong.medium.com/on-altcoin-valuation-bf19a30ee0df)
+
+
+![image](https://user-images.githubusercontent.com/43543054/119076124-07c2d300-b9c0-11eb-8a42-6d25798dc399.png)
+
+##### try lightning network:
+* wallets: [phoenix](https://phoenix.acinq.co/) and [muun](https://muun.com/)
+* get instant virtual card with lightning, [here](https://paywithmoon.com/)
+* gift with lightning, [here](https://lightning.gifts/)
+* [how to run a lightning node, btc sessions](https://www.youtube.com/watch?v=KItleddMYFU)
+* [umbrel: run bitcoin node and lightning node from single dashboard](https://getumbrel.com/)
+* [comparison of lightning wallets](https://docs.google.com/spreadsheets/d/1jzJ2Vut6q-cbr7bg3tshqJszJFLXpvi194os7GxQQ30/edit#gid=1531699029)
 
 
 
