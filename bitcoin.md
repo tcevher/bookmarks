@@ -45,15 +45,6 @@
 
 
 
-##### interesting talks:
-* [cypherpunk and computer scientist, nick szabo](https://www.whatbitcoindid.com/nick-szabo)
-* [author of bitcoin standard, saifedean](https://www.whatbitcoindid.com/podcast/saifedean-ammous-on-understanding-bitcoin-economics)
-* [human rights activist, alex gladstein](https://www.whatbitcoindid.com/podcast/alex-gladstein-on-why-bitcoin-and-decentralised-technology-matters-for-freedom)
-* [microstrategy ceo michael saylor and nydig founder ross stevens](https://www.microstrategy.com/en/bitcoin/videos/bitcoin-macro-strategy)
-* bitcoin conference 2021: [day1](https://www.youtube.com/watch?v=Zp43Ktm3wos), [day2](https://www.youtube.com/watch?v=VVDNEnRAZU4)
-
-
-
 ##### podcasts:
 * [stephen livera podcast](https://stephanlivera.com/)
 * [bitcoin fundamentals, preston pysh](https://www.theinvestorspodcast.com/bitcoin-fundamentals/)
@@ -94,6 +85,7 @@
 #### misc:
 * [statechains](https://bitcoinmagazine.com/technical/statechains-sending-keys-not-coins-to-scale-bitcoin-off-chain)
 * [sidechains](https://en.bitcoin.it/wiki/Sidechain)
+* bitcoin conference 2021: [day1](https://www.youtube.com/watch?v=Zp43Ktm3wos), [day2](https://www.youtube.com/watch?v=VVDNEnRAZU4)
 
 
 ##### useful websites:
