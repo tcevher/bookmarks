@@ -41,6 +41,7 @@
 * gift with lightning, [here](https://lightning.gifts/)
 * [how to run a lightning node, btc sessions](https://www.youtube.com/watch?v=KItleddMYFU)
 * [umbrel: run bitcoin node and lightning node from single dashboard](https://getumbrel.com/)
+* [comparison of lightning wallets](https://docs.google.com/spreadsheets/d/1jzJ2Vut6q-cbr7bg3tshqJszJFLXpvi194os7GxQQ30/edit#gid=1531699029)
 
 
 
