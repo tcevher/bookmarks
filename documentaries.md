@@ -1,5 +1,6 @@
 ##### great documentaries:
 * [princes of the yen](https://www.youtube.com/watch?v=p5Ac7ap_MAY)
+* [fall of civilizations](https://www.youtube.com/playlist?list=PLR7yrLMHm11X6-M_usCj5H-gdstyWNLXQ)
 * [my octopus teacher, netflix](https://www.netflix.com/title/81045007)
 * [the trap p1, adam curtis](https://www.youtube.com/watch?v=okUydGWdmAA)
 * [internet's own boy](https://www.youtube.com/watch?v=9vz06QO3UkQ)
