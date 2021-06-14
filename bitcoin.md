@@ -39,6 +39,7 @@
 * [bitcoin fundamentals, preston pysh](https://www.theinvestorspodcast.com/bitcoin-fundamentals/)
 * [tales from the crypt, marty bent](https://tftc.io/podcasts/)
 * [bitcoin fixes this, jimmy song](https://podcasts.apple.com/us/podcast/bitcoin-fixes-this/id1523910866)
+* [bitcoin echo chamber](https://bitcoinechochamber.com/podcasts/)
 * [bitcoin audible, guy swann](https://anchor.fm/thecryptoconomy)
 * [chaincode podcast](https://podcast.chaincode.com/)
 * [bitcointv.com](https://bitcointv.com/videos/overview)
