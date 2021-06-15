@@ -8,7 +8,7 @@
 * [economics of bitcoin, saifedean](https://www.youtube.com/watch?v=1WBrdLQhUrg)
 * [original bitcoin paper](https://nakamotoinstitute.org/bitcoin/)
 * wallets: [not your keys, not your bitcoin](https://www.swanbitcoin.com/bitcoin-wallets-not-your-keys-not-your-bitcoin/)
-* [multi-signature](https://en.bitcoin.it/wiki/Multisignature)
+* [multi-signature transactions](https://en.bitcoin.it/wiki/Multisignature)
 * [psbt - partially signed bitcoin transcation](https://river.com/learn/terms/p/partially-signed-bitcoin-transaction-psbt/)
 * [difficulty adjustment](https://learnmeabitcoin.com/beginners/difficulty)
 * [halving of issuance](https://www.investopedia.com/bitcoin-halving-4843769)
