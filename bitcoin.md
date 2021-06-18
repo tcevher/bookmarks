@@ -15,6 +15,7 @@
 * [cypherpunks write code, documentary](https://www.youtube.com/playlist?list=PLBuns9Evn1w-T2RwqMhUnTZbTTe-M-g42)
 * [lightning network overview](https://dev.lightning.community/overview/)
 * [what is taproot](https://river.com/learn/what-is-taproot/)
+* [how is bitcoin core maintained, podcast episode](https://stephanlivera.com/episode/242/)
 
 
 ##### great articles:
