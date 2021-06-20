@@ -1,3 +1,6 @@
+#### Seneca : on the shortness of life
+
+
 * To have peace in prosperity and patience in adversity 
 * No activity can be pursued by an individual who is preoccupied
 * The mind when distracted absorbs nothing deeply, but rejects everything that crams into it
