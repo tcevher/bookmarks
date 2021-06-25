@@ -1,6 +1,5 @@
 ### [whybitcoin.xyz](http://whybitcoin.xyz)
 
-
 ![image](https://user-images.githubusercontent.com/43543054/120952636-6f478500-c719-11eb-9563-e77e0eb9a3f5.png)
 
 ##### introductory:
