@@ -103,7 +103,7 @@
 
 ![image](https://user-images.githubusercontent.com/43543054/119076124-07c2d300-b9c0-11eb-8a42-6d25798dc399.png)
 
-##### try lightning network:
+##### lightning network:
 * wallets: [phoenix](https://phoenix.acinq.co/) and [muun](https://muun.com/)
 * get instant virtual card with lightning, [here](https://paywithmoon.com/)
 * gift with lightning, [here](https://lightning.gifts/)
@@ -113,6 +113,7 @@
 * [impervious, using lightning network as a transport layer](https://www.impervious.ai/)
 * [impervious demo](https://www.youtube.com/watch?v=5zWoAE8OkFY)
 * [awesome lnurl links](https://github.com/fiatjaf/awesome-lnurl)
+* [stats](https://bitcoinvisuals.com/lightning), [stats2](https://1ml.com/location?type=country)
 
 
 
