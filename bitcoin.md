@@ -31,6 +31,7 @@
 * [bitcoin doesn't waste energy, nakamoto institute](https://nakamotoinstitute.org/mempool/bitcoin-does-not-waste-energy/)
 * on adoption, [a twitter thread](https://twitter.com/skwp/status/1335627976105467906), [nigeria](https://qz.com/africa/1947769/nigeria-is-the-second-largest-bitcoin-market-after-the-us/), p2p volumes [here](https://coin.dance/volume/paxful), [and here](https://www.usefultulips.org/), [hashrate](https://www.blockchain.com/charts/hash-rate)
 * on distribution [link1](https://twitter.com/LynAldenContact/status/1329547034886627329), [link2](https://coinmetrics.io/measuring-bitcoins-decentralization/)
+* [speculative attack](https://nakamotoinstitute.org/mempool/speculative-attack/)
 * [bitcoin concerns and faqs, nakamoto institute](https://nakamotoinstitute.org/mempool/)
 * [end the fud](https://endthefud.org/)
 
