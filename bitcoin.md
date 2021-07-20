@@ -52,9 +52,9 @@
 ##### newsletters:
 * [marty bent](https://tftc.io/martys-bent/#)
 * [jimmy song](https://jimmysong.substack.com/)
-* [bitcoin audible, guy swann](https://anchor.fm/thecryptoconomy)
+* [compass mining](https://compassmining.io/education/tag/newsletter/)
 * [nydig research](https://nydig.com/research-subscription/)
-* [bitcoin optech -quite technical](https://bitcoinops.org/)
+* [bitcoin optech (technical)](https://bitcoinops.org/)
 
 
 ##### books:
