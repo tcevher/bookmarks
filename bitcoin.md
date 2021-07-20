@@ -73,6 +73,7 @@
 ##### courses:
 * [princeton course, arvind narayanan](https://www.coursera.org/learn/cryptocurrency)
 * [lightning network, chaincode labs](https://github.com/chaincodelabs/lightning-curriculum)
+* [summer of bitcoin](https://summerofbitcoin.org/)
 
 
 #### misc:
