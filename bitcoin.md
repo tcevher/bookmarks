@@ -3,6 +3,8 @@
 ![image](https://user-images.githubusercontent.com/43543054/120952636-6f478500-c719-11eb-9563-e77e0eb9a3f5.png)
 
 
+Feynman on [why](https://www.youtube.com/watch?v=36GT2zI8lVA)
+
 
 ##### introductory:
 * [hello bitcoin slides](https://www.hellobitco.in/)
