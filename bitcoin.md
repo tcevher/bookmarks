@@ -40,6 +40,7 @@ Is Bitcoin digital-gold or magic internet money? None, but depends on how much r
 * [speculative attack](https://nakamotoinstitute.org/mempool/speculative-attack/)
 * [bitcoin concerns and faqs, nakamoto institute](https://nakamotoinstitute.org/mempool/)
 * [end the fud](https://endthefud.org/)
+* [shelling out, the origins of money - nick szabo](https://nakamotoinstitute.org/shelling-out/)
 
 
 
