@@ -15,9 +15,10 @@
 * Here we shall have to say simply that all government expenditures must eventually be paid out of the proceeds of taxation; that inflation itself is merely a form, and a particularly vicious form, of taxation.
 
 * A certain amount of public spending is necessary to perform. But the concern is with the public works considered as a means of "providing employment" or of adding wealth to the community that it would not otherwise have had.
-A bridge built primarily "to provide employment" is a different kind of bridge.When providing employment becomes the end, need becomes a subordinate consideration. "Projects" have to be invented.Instead of thinking only of where bridges must be built, the government spenders begin to ask themselves where bridges can be built. 
+A bridge built primarily "to provide employment" is a different kind of bridge. When providing employment becomes the end, need becomes a subordinate consideration. "Projects" have to be invented. Instead of thinking only of where bridges must be built, the government spenders begin to ask themselves where bridges can be built. 
 
 * More wasteful the work, the more costly in manpower, the better it becomes for the purpose of providing more employment.
 
+* 
 
 -- finished page 36
