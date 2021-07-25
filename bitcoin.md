@@ -22,6 +22,7 @@ Is Bitcoin digital-gold or magic internet money? None, but depends on how much r
 * [what is taproot](https://river.com/learn/what-is-taproot/)
 * [how is bitcoin core maintained, podcast episode](https://stephanlivera.com/episode/242/)
 * [security and centralization risks of big blocks](https://bitcoinmagazine.com/guides/what-is-the-bitcoin-block-size-limit)
+* [my notes of origins of money by carl menger](https://github.com/nsingla/bookmarks/blob/master/books/on_the_origins_of_money_menger.md)
 
 
 ##### great articles:
