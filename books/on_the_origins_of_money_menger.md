@@ -26,4 +26,36 @@
 * A commodity is more or less saleable according as we are able, with more or less prospect of success, to dispose of it at prices corresponding to the general economic situation, at economic prices. Account must be taken of the quantitative factor in the saleableness of commodities. Some commodities, in consequence of the development of markets and speculation, are able at any time of find a sale in practically any quantity at economic, approximately economic, prices. Other commodities can only find a sale at economic prices in smaller quantities, commensurate with the general growth of an effective demand, fetching a relatively reduced price in the case of a greater supply.
 
 
--- finished page 28
+* The saleableness of a commodity depends upon the following circumstances:
+    - upon the number of persons who are still in want of the commodity, and upon the extent and intensity of that want, which is un-supplied, or is constantly recurring
+    - upon the purchasing power of the hose persons
+    - upon the available quantity of the commodity in relation to the yet un-supplied want of it
+    - upon the divisibility of the commodity, and any other ways in which it may be adjusted to the needs of the individual customers
+    - upon the development of the market, and of speculation in particular, and finally
+    - upon the number and nature of the limitations imposed politically and socially upon exchange and consumption with respect to the commodity in question
+
+* The spatial limits of the saleableness of commodities are mainly conditioned:
+ - by the degree to which the want of commodities is distributed in the space
+ - by the degree to which the goods lend themselves to transport, and the cost of transport incurred in proportion to their value
+ - by the extent to which the means of transport and of commerce generally are developed with respect to different classes of commodities
+ - by the local extension of organized markets and their inter-communication by "arbitrage"
+ - by the differences in the restrictions imposed upon commercial inter-communication with respect to different goods, to inter-local and, in particular, in international trade
+
+ * The time limits to the saleableness of commodities are mainly conditioned:
+  - by permanence in the need of them(their independence of fluctuation in the same)
+  - their durability i.e. their suitableness for preservation
+  - the cost of preserving and storing them
+  - the rate of interest
+  - the periodicity of a market for the same
+  - the development of speculation and in particular of time-bargains in connection with the same
+  - the restrictions imposed politically and socially on their being transferred from one period of time to another
+
+* These properties explain why it is that certain commodities can be disposed of with ease and certainty in definite markets, i.e. within local and temporal limits, at any time and in practically any quantities, at prices corresponding to the general economic situation.
+
+
+
+
+
+
+
+-- finished page 32
