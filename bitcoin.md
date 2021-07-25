@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/43543054/120952636-6f478500-c719-11eb-9563-e77e0eb9a3f5.png)
 
 
-Feynman on ["why"](https://www.youtube.com/watch?v=36GT2zI8lVA)
+Feynman on ["why"](https://www.youtube.com/watch?v=36GT2zI8lVA)<br><br>
 Is Bitcoin digital-gold or magic internet money? None, but depends on how much reductionism one prefers to apply to understand complex systems(networks) specially in the case of Bitcoin, which has it's fundamentals built on a host of cross-sectional fields of economics, cryptography, networks and transaction processing.
 
 
