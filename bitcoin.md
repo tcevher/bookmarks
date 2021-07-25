@@ -2,6 +2,10 @@
 
 ![image](https://user-images.githubusercontent.com/43543054/120952636-6f478500-c719-11eb-9563-e77e0eb9a3f5.png)
 
+
+Feynman on ["why"](https://www.youtube.com/watch?v=36GT2zI8lVA)
+
+
 ##### introductory:
 * [hello bitcoin slides](https://www.hellobitco.in/)
 * [economics of bitcoin, saifedean](https://www.youtube.com/watch?v=1WBrdLQhUrg)
@@ -15,6 +19,7 @@
 * [lightning network overview](https://dev.lightning.community/overview/)
 * [what is taproot](https://river.com/learn/what-is-taproot/)
 * [how is bitcoin core maintained, podcast episode](https://stephanlivera.com/episode/242/)
+* [security and centralization risks of big blocks](https://bitcoinmagazine.com/guides/what-is-the-bitcoin-block-size-limit)
 
 
 ##### great articles:
@@ -29,6 +34,7 @@
 * [bitcoin doesn't waste energy, nakamoto institute](https://nakamotoinstitute.org/mempool/bitcoin-does-not-waste-energy/)
 * on adoption, [a twitter thread](https://twitter.com/skwp/status/1335627976105467906), [nigeria](https://qz.com/africa/1947769/nigeria-is-the-second-largest-bitcoin-market-after-the-us/), p2p volumes [here](https://coin.dance/volume/paxful), [and here](https://www.usefultulips.org/), [hashrate](https://www.blockchain.com/charts/hash-rate)
 * on distribution [link1](https://twitter.com/LynAldenContact/status/1329547034886627329), [link2](https://coinmetrics.io/measuring-bitcoins-decentralization/)
+* [speculative attack](https://nakamotoinstitute.org/mempool/speculative-attack/)
 * [bitcoin concerns and faqs, nakamoto institute](https://nakamotoinstitute.org/mempool/)
 * [end the fud](https://endthefud.org/)
 
@@ -49,9 +55,9 @@
 ##### newsletters:
 * [marty bent](https://tftc.io/martys-bent/#)
 * [jimmy song](https://jimmysong.substack.com/)
-* [bitcoin audible, guy swann](https://anchor.fm/thecryptoconomy)
+* [compass mining](https://compassmining.io/education/tag/newsletter/)
 * [nydig research](https://nydig.com/research-subscription/)
-* [bitcoin optech -quite technical](https://bitcoinops.org/)
+* [bitcoin optech (technical)](https://bitcoinops.org/)
 
 
 ##### books:
@@ -70,6 +76,7 @@
 ##### courses:
 * [princeton course, arvind narayanan](https://www.coursera.org/learn/cryptocurrency)
 * [lightning network, chaincode labs](https://github.com/chaincodelabs/lightning-curriculum)
+* [summer of bitcoin](https://summerofbitcoin.org/)
 
 
 #### misc:
@@ -103,7 +110,7 @@
 
 ![image](https://user-images.githubusercontent.com/43543054/119076124-07c2d300-b9c0-11eb-8a42-6d25798dc399.png)
 
-##### try lightning network:
+##### lightning network:
 * wallets: [phoenix](https://phoenix.acinq.co/) and [muun](https://muun.com/)
 * get instant virtual card with lightning, [here](https://paywithmoon.com/)
 * gift with lightning, [here](https://lightning.gifts/)
@@ -111,7 +118,14 @@
 * [umbrel: run bitcoin node and lightning node from single dashboard](https://getumbrel.com/)
 * [comparison of lightning wallets](https://docs.google.com/spreadsheets/d/1jzJ2Vut6q-cbr7bg3tshqJszJFLXpvi194os7GxQQ30/edit#gid=1531699029)
 * [impervious, using lightning network as a transport layer](https://www.impervious.ai/)
+* [impervious demo](https://www.youtube.com/watch?v=5zWoAE8OkFY)
+* [awesome lnurl links](https://github.com/fiatjaf/awesome-lnurl)
+* [stats](https://bitcoinvisuals.com/lightning), [stats2](https://1ml.com/location?type=country)
 
 
 
 ![image](https://user-images.githubusercontent.com/43543054/119600413-feb57580-bdb4-11eb-87a3-b83bb1e187f6.png)
+![image](https://user-images.githubusercontent.com/43543054/124642547-f6ddfc00-de5d-11eb-9f38-e620c6438415.png)
+![image](https://user-images.githubusercontent.com/43543054/124642688-1e34c900-de5e-11eb-8869-9539d9c158f4.png)
+![image](https://user-images.githubusercontent.com/43543054/126359147-c91a8f77-a4f4-4a43-bd56-590fe1367574.png)
+
