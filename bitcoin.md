@@ -83,6 +83,7 @@ Feynman on ["why"](https://www.youtube.com/watch?v=36GT2zI8lVA)
 * [statechains](https://bitcoinmagazine.com/technical/statechains-sending-keys-not-coins-to-scale-bitcoin-off-chain)
 * [sidechains](https://en.bitcoin.it/wiki/Sidechain)
 * bitcoin conference 2021: [day1](https://www.youtube.com/watch?v=Zp43Ktm3wos), [day2](https://www.youtube.com/watch?v=VVDNEnRAZU4)
+* [centralization of internet](https://www.whatbitcoindid.com/podcast/bitcoin-tech-6-the-threat-of-internet-centralisation)
 
 
 ##### useful websites:
