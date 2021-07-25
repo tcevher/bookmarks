@@ -35,20 +35,20 @@
     - upon the number and nature of the limitations imposed politically and socially upon exchange and consumption with respect to the commodity in question
 
 * The spatial limits of the saleableness of commodities are mainly conditioned:
- - by the degree to which the want of commodities is distributed in the space
- - by the degree to which the goods lend themselves to transport, and the cost of transport incurred in proportion to their value
- - by the extent to which the means of transport and of commerce generally are developed with respect to different classes of commodities
- - by the local extension of organized markets and their inter-communication by "arbitrage"
- - by the differences in the restrictions imposed upon commercial inter-communication with respect to different goods, to inter-local and, in particular, in international trade
+    - by the degree to which the want of commodities is distributed in the space
+    - by the degree to which the goods lend themselves to transport, and the cost of transport incurred in proportion to their value
+    - by the extent to which the means of transport and of commerce generally are developed with respect to different classes of commodities
+    - by the local extension of organized markets and their inter-communication by "arbitrage"
+    - by the differences in the restrictions imposed upon commercial inter-communication with respect to different goods, to inter-local and, in particular, in international trade
 
  * The time limits to the saleableness of commodities are mainly conditioned:
-  - by permanence in the need of them(their independence of fluctuation in the same)
-  - their durability i.e. their suitableness for preservation
-  - the cost of preserving and storing them
-  - the rate of interest
-  - the periodicity of a market for the same
-  - the development of speculation and in particular of time-bargains in connection with the same
-  - the restrictions imposed politically and socially on their being transferred from one period of time to another
+    - by permanence in the need of them(their independence of fluctuation in the same)
+    - their durability i.e. their suitableness for preservation
+    - the cost of preserving and storing them
+    - the rate of interest
+    - the periodicity of a market for the same
+    - the development of speculation and in particular of time-bargains in connection with the same
+    - the restrictions imposed politically and socially on their being transferred from one period of time to another
 
 * These properties explain why it is that certain commodities can be disposed of with ease and certainty in definite markets, i.e. within local and temporal limits, at any time and in practically any quantities, at prices corresponding to the general economic situation.
 
