@@ -3,7 +3,8 @@
 ![image](https://user-images.githubusercontent.com/43543054/120952636-6f478500-c719-11eb-9563-e77e0eb9a3f5.png)
 
 
-Feynman on ["why"](https://www.youtube.com/watch?v=36GT2zI8lVA)
+Feynman on ["why"](https://www.youtube.com/watch?v=36GT2zI8lVA)<br><br>
+Is Bitcoin digital-gold or magic internet money? None, but depends on how much reductionism one prefers to apply to understand complex systems(networks) specially in the case of Bitcoin, which has it's fundamentals built on a host of cross-sectional fields of economics, cryptography, networks and transaction processing.
 
 
 ##### introductory:
@@ -16,10 +17,12 @@ Feynman on ["why"](https://www.youtube.com/watch?v=36GT2zI8lVA)
 * [difficulty adjustment](https://learnmeabitcoin.com/beginners/difficulty)
 * [halving of issuance](https://www.investopedia.com/bitcoin-halving-4843769)
 * [cypherpunks write code, documentary](https://www.youtube.com/playlist?list=PLBuns9Evn1w-T2RwqMhUnTZbTTe-M-g42)
+* [cypherpunk manifesto](https://www.activism.net/cypherpunk/manifesto.html)
 * [lightning network overview](https://dev.lightning.community/overview/)
 * [what is taproot](https://river.com/learn/what-is-taproot/)
 * [how is bitcoin core maintained, podcast episode](https://stephanlivera.com/episode/242/)
 * [security and centralization risks of big blocks](https://bitcoinmagazine.com/guides/what-is-the-bitcoin-block-size-limit)
+* [origins of money by carl menger - notes](https://github.com/nsingla/bookmarks/blob/master/books/on_the_origins_of_money_menger.md)
 
 
 ##### great articles:
@@ -37,6 +40,7 @@ Feynman on ["why"](https://www.youtube.com/watch?v=36GT2zI8lVA)
 * [speculative attack](https://nakamotoinstitute.org/mempool/speculative-attack/)
 * [bitcoin concerns and faqs, nakamoto institute](https://nakamotoinstitute.org/mempool/)
 * [end the fud](https://endthefud.org/)
+* [shelling out, the origins of money - nick szabo](https://nakamotoinstitute.org/shelling-out/)
 
 
 
