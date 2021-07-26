@@ -18,11 +18,13 @@ Is Bitcoin digital-gold or magic internet money? None, but depends on how much r
 * [halving of issuance](https://www.investopedia.com/bitcoin-halving-4843769)
 * [cypherpunks write code, documentary](https://www.youtube.com/playlist?list=PLBuns9Evn1w-T2RwqMhUnTZbTTe-M-g42)
 * [cypherpunk manifesto](https://www.activism.net/cypherpunk/manifesto.html)
+* [cryptoanarchy, tim may](https://en.wikipedia.org/wiki/Crypto-anarchism)
 * [lightning network overview](https://dev.lightning.community/overview/)
 * [what is taproot](https://river.com/learn/what-is-taproot/)
 * [how is bitcoin core maintained, podcast episode](https://stephanlivera.com/episode/242/)
 * [security and centralization risks of big blocks](https://bitcoinmagazine.com/guides/what-is-the-bitcoin-block-size-limit)
 * [origins of money by carl menger - notes](https://github.com/nsingla/bookmarks/blob/master/books/on_the_origins_of_money_menger.md)
+
 
 
 ##### great articles:
