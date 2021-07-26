@@ -1,4 +1,4 @@
-#### On the origins of Money: Carl Menger
+#### The origins of money: Carl Menger
 
 * It is not the government edicts that create money but instead the marketplace. Individuals decide what the most marketable good is for use as a medium of exchange.
 
@@ -52,7 +52,21 @@
 
 * These properties explain why it is that certain commodities can be disposed of with ease and certainty in definite markets, i.e. within local and temporal limits, at any time and in practically any quantities, at prices corresponding to the general economic situation.
 
+* Men have been led, with increasing knowledge of their individual interests, each by his own economic interests, without convention, without legal compulsion, nay, even without any regard to the common interest, to exchange goods destined for exchange(their 'wares') for other goods equally destined for exchange, but more saleable.
 
+* And so it has come to pass, that as man became increasingly conversant with these economic advantages, mainly by an insight become traditional, and by the habit of economic action, those commodities, which relatively to both space and time are most saleable, have in every market become the wares, which it is not only in the interest of every one to accept in exchange for his own less saleable goods, but which also are those he actually does readily accept.
+
+* The superior saleableness depends only upon the relatively inferior saleableness of every other kind of commodity, by which alone they have been able to become generally acceptable media of exchange.
+
+* It lies in the economic interest of each trafficking individual to exchange less saleable for more saleable commodities. But the willing acceptance of the medium of the exchange presupposes already a knowledge of these interest on the part of those economic subjects who are expected to accept in exchange for their wares a commodity which in and by itself is perhaps entirely useless to them. It is certain that this knowledge never arises in every part of a nation at the same time. It is only in the first instance a limited number of economic subjects who will recognize the advantage in such procedure, an advantage which, in and by itself, is independent of the general recognition of a commodity as a medium of exchange, in as much as such an exchange, always and under all circumstances, brings the economic unit a good deal nearer to his goal, to the acquisition of useful things of which he really stands in need. But it is admitted, that there is no better method of enlightening any one about his economic interests than that he perceive the economic success of those who use the right means to secure their own. Hence it is also clear that nothing may have been so favorable to the genesis of a medium of exchange as the acceptance, on the part of the most discerning and capable economic subjects, for their economic gain, and over a considerable period of time, of eminently saleable goods in preference to all others.
+
+* Goods which had thus become generally acceptable media of exchange were called by the Germans Geld, from gelten, i.e., to pay, to perform, while other nations derived their designation for money mainly from the substance used, the shape of the coin, or even from certain kinds of coin.
+
+* It is not impossible for media of exchange, serving as they do commonwealth in the most emphatic sense of the word, to be instituted also by way of legislation, like other social institutions. But this is neither the only, nor the primary mode in which money has taken it's origin.
+
+*  When the relatively most saleable commodities have become "money", the great event has in the first place the effect of substantially increasing their originally high saleableness. Every economic subject bringing less saleable wares to market, to acquire goods of another sort, has thenceforth a stronger interest in converting what he has in the first instance into the wares which have become money. 
+
+* For such persons, by the exchange of their less saleable wares for those which as money are most saleable, attain not merely, a higher probability, but the certainty, of being able to acquire forthwith equivalent quantities of every kind of commodity to be had in the market. And their control over these depends simply upon their pleasure and their choice. 
 
 
 
